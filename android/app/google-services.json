@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618852126179",
+    "project_id": "thriftyu-48394",
+    "storage_bucket": "thriftyu-48394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618852126179:android:1fd2e7b03cc262bbb9e4d6",
+        "android_client_info": {
+          "package_name": "com.example.thriftyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618852126179-tm1h344lianvireii54lj2k62bem6l03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mYdbzg4N-8mcI_JjUyX7-aisJmp43N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618852126179-tm1h344lianvireii54lj2k62bem6l03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
